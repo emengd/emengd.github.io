@@ -1,10 +1,10 @@
-# Contact
+## Contact
 
 E-mail: enguehard@leibniz-ZAS.de
 
 Office 1.44, Leibniz-ZAS, Pariser Straße 1, Berlin.
 
-# Biography
+## Biography
 
 I am a postdoc working in the area of natural language semantics and pragmatics.
 Currently, I am a fellow of the Alexander von Humboldt foundation at [ZAS](https://www.leibniz-zas.de/en/) in Berlin.
@@ -16,13 +16,13 @@ My name is pronounced /emil ɑ̃gø.aʁ/.
 
 You can find my academic CV [here](pdf/cvenguehard.pdf).
 
-# Output
+## Output
 
-## Manuscripts
+### Manuscripts
 
 * Towards a pragmatic explanation for the prevalence of upward-monotonicity in natural language: some results on communicative stability, the strongest answer condition, and exhaustification. Ms. University of Amsterdam (2024). \[&nbsp;[link](https://ling.auf.net/lingbuzz/007288)&nbsp;\]
 
-## Publications
+### Publications
 
 * What number marking on indefinites means: conceivability presuppositions and sensitivity to probabilities. *Proceedings of Sinn und Bedeutung 28* (2024). \[&nbsp;[link](https://doi.org/10.18148/sub/2024.v28.1123)&nbsp;\]
 
@@ -42,7 +42,7 @@ You can find my academic CV [here](pdf/cvenguehard.pdf).
 
 * Exploring the Syntactic Abilities of RNNs with Multi-task Learning (with Yoav Goldberg and Tal Linzen). *ConLL 2017* (2017). \[&nbsp;[link](https://doi.org/10.18653/v1/K17-1003)&nbsp;\]
 
-## Selected presentations
+### Selected presentations
 
 * Scalar competition across environments. *Meaning in Language* Colloquium, HHU (2024). \[&nbsp;[related handout](pdf/weakimpl_handout.pdf)&nbsp;\]
 
@@ -50,7 +50,7 @@ You can find my academic CV [here](pdf/cvenguehard.pdf).
 
 * Tying the denotation of “tall” to considerations of utility. WIP-LANG seminar, ENS (2018). \[&nbsp;[handout](pdf/optimality_handout_wip.pdf)&nbsp;\]
 
-## Other
+### Other
 
 * Structural and contextual factors in pragmatics: on the role of alternatives at the semantics/pragmatics interface. Ph.D. thesis, ENS-PSL (2021). \[&nbsp;[link](pdf/manuscrit.pdf)&nbsp;\]
 
