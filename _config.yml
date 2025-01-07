@@ -2,3 +2,5 @@ name: Émile Enguehard
 title: null
 description: Émile Enguehard's personal homepage
 theme: jekyll-theme-primer
+titles_from_headings:
+  enabled: false
