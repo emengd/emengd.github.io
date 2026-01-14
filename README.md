@@ -24,7 +24,7 @@ You can find my academic CV [here](pdf/cvenguehard.pdf).
 
 ### Publications
 
-* Towards a pragmatic explanation for the prevalence of upward-monotonicity in natural language: some results on communicative stability, the strongest answer condition, and exhaustification. *Linguistics and Philosophy* (2025). \[&nbsp;[link](https://link.springer.com/article/10.1007/s10988-025-09437-9)&nbsp;\]
+* Towards a pragmatic explanation for the prevalence of upward-monotonicity in natural language: some results on communicative stability, the strongest answer condition, and exhaustification. *Linguistics and Philosophy* 48 (2025). \[&nbsp;[link](https://link.springer.com/article/10.1007/s10988-025-09437-9)&nbsp;\]
 
 * What number marking on indefinites means: conceivability presuppositions and sensitivity to probabilities. *Proceedings of Sinn und Bedeutung 28* (2024). \[&nbsp;[link](https://doi.org/10.18148/sub/2024.v28.1123)&nbsp;\]
 
