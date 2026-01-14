@@ -20,9 +20,11 @@ You can find my academic CV [here](pdf/cvenguehard.pdf).
 
 ### Manuscripts
 
-* Towards a pragmatic explanation for the prevalence of upward-monotonicity in natural language: some results on communicative stability, the strongest answer condition, and exhaustification. Ms. University of Amsterdam (2024). \[&nbsp;[link](https://ling.auf.net/lingbuzz/007288)&nbsp;\]
+* Minimal sufficiency readings of necessity modals. Ms. ZAS Berlin (2021). \[&nbsp;[link](https://ling.auf.net/lingbuzz/006826)&nbsp;\]
 
 ### Publications
+
+* Towards a pragmatic explanation for the prevalence of upward-monotonicity in natural language: some results on communicative stability, the strongest answer condition, and exhaustification. *Linguistics and Philosophy* (2025). \[&nbsp;[link](https://link.springer.com/article/10.1007/s10988-025-09437-9)&nbsp;\]
 
 * What number marking on indefinites means: conceivability presuppositions and sensitivity to probabilities. *Proceedings of Sinn und Bedeutung 28* (2024). \[&nbsp;[link](https://doi.org/10.18148/sub/2024.v28.1123)&nbsp;\]
 
@@ -32,7 +34,7 @@ You can find my academic CV [here](pdf/cvenguehard.pdf).
 
 * Explaining gaps in the logical lexicon of natural languages: A decision-theoretic perspective on the square of Aristotle (with Benjamin Spector). *Semantics and Pragmatics* 14 (2021). \[&nbsp;[link](http://dx.doi.org/10.3765/sp.14.5)&nbsp;\]
 
-* Minimal sufficiency readings of necessity modals. *Proceedings of NELS 50* (2020). \[&nbsp;[link to related manuscript](https://ling.auf.net/lingbuzz/006826)&nbsp;\]
+* Minimal sufficiency readings of necessity modals. *Proceedings of NELS 50* (2020). See related manuscript above.
 
 * Connectedness as a constraint on exhaustification (with Emmanuel Chemla). *Linguistics and Philosophy* 44 (2019). \[&nbsp;[link](https://ling.auf.net/lingbuzz/004247)&nbsp;\]
 
